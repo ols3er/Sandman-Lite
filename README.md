@@ -49,6 +49,10 @@ To remove all pending notifications ```sandman-lite -r```
 
 To get sandman-lite version ```sandman-lite -v```
 
+To check for an update and download/install if one is available  ```sandman-lite -u```
+
+To get help with using sandman-lite  ```sandman-lite -h```
+
 ## Removing
 ```bash
 cd ~/Sandman-Lite
